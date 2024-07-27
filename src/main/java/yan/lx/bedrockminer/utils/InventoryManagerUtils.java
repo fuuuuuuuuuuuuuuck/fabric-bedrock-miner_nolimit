@@ -142,7 +142,8 @@ public class InventoryManagerUtils {
                 return true;
             }
         }
-        return false;
+        //return false;
+        return true;
     }
 
     /**
